@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+fastapi
+uvicorn
+pydantic
+ipykernel
+supabase
+psutil
+speedtest-cli
+requests
+beautifulsoup4
+python-dotenv
+selenium

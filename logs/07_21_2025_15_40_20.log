@@ -1,0 +1,2 @@
+[ 2025-07-21 15:41:10,038 ] 1025 httpx - INFO - HTTP Request: POST https://zrnnmetvtfteosglkrgw.supabase.co/rest/v1/network_data "HTTP/2 400 Bad Request"
+[ 2025-07-21 15:41:10,046 ] 70 root - ERROR - CustomException: Error occured in python script name [/home/pi/Project/raspi-network-dt/main.py] line number [59] error message : [{'message': "Could not find the 'download_speed' column of 'network_data' in the schema cache", 'code': 'PGRST204', 'hint': None, 'details': None}]
